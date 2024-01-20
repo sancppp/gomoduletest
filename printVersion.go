@@ -3,5 +3,5 @@ package gomoduletest
 import "fmt"
 
 func PrintVersion() {
-	fmt.Println("0.1.0")
+	fmt.Println("1.0.0")
 }
